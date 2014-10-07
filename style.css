@@ -1,0 +1,31 @@
+
+body {
+  margin: 15px;
+  padding: 15px;
+  /*background-color: #FF0000;*/
+  url(/wp-content/themes/atahualpa/images/image-name.png)
+}
+
+/*another*/
+
+#top{
+  /*margin-left: 200px;*/
+}
+
+#googleMap{
+  width:500px;
+  height:300px;
+}
+
+
+#bottom{
+  width:500px;
+  height:300px;
+}
+
+#middle{
+  margin-left: 20px;
+}
+#bottom{
+  margin-right:20px;
+}
